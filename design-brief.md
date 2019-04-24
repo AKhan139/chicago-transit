@@ -18,6 +18,6 @@
   * Strong evidence of a relationship between CTA ridership and neighborhood status   
 - **Could-Haves** (desirable but not necessary)
   * Animated visualizations showing changes to CTA ridership and neighborhoods
--**Won’t Haves** (future “wish list”)
+- **Won’t Haves** (future “wish list”)
   * Comparisons to other cities’ systems of public transportation
   * In-depth discussions of urbanism 
